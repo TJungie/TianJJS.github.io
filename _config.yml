@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我的的博客
+title: Jungie的博客
 subtitle:
 description:
-author: me
+author: jungie
 language:
 timezone:
 
@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
+  type:github
   repository: git@github.com:TianJJS/jungie.github.io.git
   branch: master
